@@ -27,7 +27,7 @@ Instead of manual data entry, this script acts as a **Financial ETL Pipeline**:
 ### 📂 How to Run Locally
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Kaitou-debug/Mivera_Financial_Tools.git](https://github.com/Kaitou-debug/Mivera_Financial_Tools.git)
+    git clone https://github.com/Kaitou-debug/mivera_feasibility_engine.git
     ```
 2.  **Install dependencies:**
     ```bash
