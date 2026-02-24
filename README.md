@@ -43,3 +43,25 @@ Instead of manual data entry, this script acts as a **Financial ETL Pipeline**:
 **Kaitou-debug**
 *Data Engineer & Python Automation Specialist*
 *Focus: Building Scalable ETL Pipelines & Financial Data Tools*
+
+⚖️ **License & Usage (All Rights Reserved)**
+
+This repository and its contents are proprietary property of Mivera Enterprises.
+
+The code is made publicly available **strictly for portfolio evaluation and peer review purposes** by hiring managers, recruiters, and technical interviewers.
+
+**You may:**
+
+Clone and run this code locally to evaluate my technical skills.
+
+Review the architecture, ETL logic, and Pandas structuring.
+
+**You may NOT:**
+
+Use this software for personal or commercial business operations.
+
+Distribute, modify, or sell the code.
+
+Generate and sell the resulting output (Excel models).
+
+If you are a D2C founder looking for the 2026 Amazon India Financial Model, the completed, interactive Excel templates are available for purchase.
